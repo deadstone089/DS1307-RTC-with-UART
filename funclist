@@ -1,0 +1,7 @@
+_tens: CODE, 1343 0 22
+_i2c_initialize: CODE, 1365 0 127
+_main: CODE, 1492 0 183
+_i2c_write: CODE, 1675 0 185
+_i2c_read: CODE, 1860 0 188
+_ones: CODE, 1293 0 15
+Total: 720
